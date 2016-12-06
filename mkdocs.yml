@@ -1,0 +1,14 @@
+site_name: Citrix XenApp and XenDesktop SDK
+site_description: Reference guide for Citrix XenApp and XenDesktop SDK
+
+theme_dir: theme
+#theme: readthedocs
+repo_url: https://github.com/ajitchelat/AppDNA-SDK.git
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+     anchorlink: True
+
+pages:
+- PVS 7.12 SOAP Server Programmer’s Guide: pvs1.md

@@ -11,4 +11,4 @@ markdown_extensions:
      anchorlink: True
 
 pages:
-- PVS 7.12 SOAP Server Programmer’s Guide: pvs1.md
+- PVS 7.12 SOAP Server Programmer’s Guide: index.md
